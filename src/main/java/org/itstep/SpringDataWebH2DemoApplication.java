@@ -11,3 +11,5 @@ public class SpringDataWebH2DemoApplication {
 	}
 
 }
+
+//https://github.com/KirillovItstep/Spring-RSQL ссылка на проект
