@@ -11,7 +11,13 @@
     <groupId>org.itstep</groupId>
     <artifactId>Spring-RSQL</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <description>Demo project for Spring Boot</description>
+    <modules>
+        <module>flux</module>
+        <module>foo</module>
+        <module>thymeleaf</module>
+    </modules>
 
     <properties>
         <java.version>13</java.version>
